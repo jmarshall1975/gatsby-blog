@@ -11,8 +11,8 @@ module.exports = {
     description: `The personal blog of James Marshall, scrum master, developer, technophile and father.`,
     siteUrl: `https://blog.jamesmarshall.org/`,
     home: {
-      title: `Hi! I'm Delog`,
-      description: `I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)`,
+      title: `Hi! I'm James`,
+      description: `I have been working with web technologies for over twenty years, and have have worked across a variety of disciplines for clients across many different market sectors. I am currently priveleged to work with a close-knit team managing delivery of responsive web solutions for one of the largest camping holiday operators in Europe.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
     w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 

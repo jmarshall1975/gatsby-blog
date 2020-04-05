@@ -1,5 +1,5 @@
 import React from "react"
-import { StaticQuery, graphql, Link } from "gatsby"
+import { StaticQuery, graphql } from "gatsby"
 export default () => (
   <StaticQuery
     query={graphql`
@@ -18,9 +18,9 @@ export default () => (
       <div className="hero-header">
         <div className="headline">{data.site.siteMetadata.home.title}</div>
         <div className="primary-content">
-          <p>{data.site.siteMetadata.home.description}</p>
+          <p>I have been working with web technologies for over twenty years, and have have worked across a variety of disciplines for clients across many different market sectors. I am currently priveleged to work with a close-knit team managing delivery of responsive web solutions for one of the largest camping holiday operators in Europe.</p>
+          <p>The posts you will find here are my musings and observations that emerge from my ongoing journey through the world of development.</p>
         </div>
-        <Link to='/contact' className="button -primary">Get in touch &rarr;</Link>
       </div>
     )}
   />

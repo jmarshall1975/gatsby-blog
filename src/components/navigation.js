@@ -3,7 +3,8 @@ import {Link} from "gatsby"
 
 export default (props) => (
   <nav className="navigation"> 
-    <Link to="/contact">Contact</Link>
+    <Link to="/">Blog</Link>
+    <Link to="/about">About</Link>
   </nav>
   
 )
