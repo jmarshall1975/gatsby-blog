@@ -4,7 +4,9 @@ path: /learn-to-see-the-opportunity
 date: 2020-04-05T18:43:24.386Z
 title: Learn to See the Opportunity
 thumbnail: /assets/2877375915_de90576650_k.jpg
-metaDescription: 'Advice regarding how to find opportunity in situations '
+metaDescription: >-
+  Advice regarding how to find opportunity in situations that may otherwise seem
+  hopeless.
 ---
 Let's play a game.
 
