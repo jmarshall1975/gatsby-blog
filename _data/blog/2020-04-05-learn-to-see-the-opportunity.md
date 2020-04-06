@@ -22,6 +22,4 @@ However, every cliched proverb contains a grain of truth, and these are no excep
 
 I had started to write this post several weeks before the coronavirus pandemic changed our world in ways we could never have imagined, but as I sit here I feel the need to express this more than ever. The message is more necessary than ever, especially for those of us facing an uncertain future.
 
-
-
-["IMG_2785"](https://www.flickr.com/photos/86351510@N00/2877375915) by[ starrphotos](https://www.flickr.com/photos/86351510@N00) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)
+###### ["IMG_2785"](https://www.flickr.com/photos/86351510@N00/2877375915) by[ starrphotos](https://www.flickr.com/photos/86351510@N00) is licensed under [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/?ref=ccsearch&atype=rich)
