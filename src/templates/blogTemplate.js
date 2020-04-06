@@ -2,12 +2,16 @@ import React from "react"
 import Helmet from 'react-helmet';
 import { graphql } from "gatsby"
 import Layout from "../components/layout"
+import CustomReactShare from "../components/CustomShareBlock";
 
 export default function Template({
   data, // this prop will be injected by the GraphQL query below.
 }) {
+
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
+  const url = data.site.siteMetadata.siteUrl + frontmatter.path
+
   return (
     <Layout>
       <Helmet>
@@ -34,6 +38,7 @@ export default function Template({
             dangerouslySetInnerHTML={{ __html: html }}
           />
         </article>
+        <CustomReactShare title={frontmatter.title} excerpt={frontmatter.metaDescription} url={url} />
       </div>
     </Layout>
   )
@@ -49,6 +54,12 @@ export const pageQuery = graphql`
         title
         thumbnail
         metaDescription
+      }
+    }
+    site {
+      siteMetadata {
+        title
+        siteUrl
       }
     }
   }
