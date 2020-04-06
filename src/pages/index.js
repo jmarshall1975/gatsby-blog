@@ -3,7 +3,6 @@ import Helmet from 'react-helmet';
 import { graphql } from 'gatsby'
 import Layout from "../components/layout"
 import PostLink from "../components/post-link"
-import HeroHeader from "../components/heroHeader"
 
 const IndexPage = ({
   data: {
@@ -23,7 +22,6 @@ const IndexPage = ({
         <meta name="description" content={site.siteMetadata.description} />
         {!site.siteMetadata.w3l_dom_key ? null : <meta name="w3l-domain-verification" content={site.siteMetadata.w3l_dom_key} />}
       </Helmet>
-      <HeroHeader/>
       <h2>Latest Posts</h2>
       <div className="grids">
         {Posts}
