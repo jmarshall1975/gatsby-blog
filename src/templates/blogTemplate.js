@@ -17,6 +17,16 @@ export default function Template({
       <Helmet>
         <title>{frontmatter.title}</title>
         <meta name="description" content={frontmatter.metaDescription} />
+
+        <meta property="og:title" content={frontmatter.title} />
+        <meta property="og:description" content={frontmatter.metaDescription}/>
+        <meta property="og:image" content={`${data.site.siteMetadata.siteUrl}${frontmatter.thumbnail}`}/>
+        <meta property="og:url" content={url} />
+        <meta name="twitter:card" content="summary" />
+        <meta property="og:type" content="article" />
+        <meta property="og:locale" content="en_GB" />
+         <link rel="canonical" href={url} />
+
       </Helmet>
       <div className="blog-post-container">
         <article className="post">
