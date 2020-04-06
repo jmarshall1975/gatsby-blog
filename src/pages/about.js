@@ -14,6 +14,13 @@ const AboutPage = ({
         <title>Bio - {site.siteMetadata.title}</title>
         <meta name="description" content={site.siteMetadata.description} />
         {!site.siteMetadata.w3l_dom_key ? null : <meta name="w3l-domain-verification" content={site.siteMetadata.w3l_dom_key} />}
+        <meta property="og:title" content={site.siteMetadata.title} />
+        <meta property="og:description" content={site.siteMetadata.description} />
+        <meta property="og:url" content="https://blog.jamesmarshall.org/about" />
+        <meta name="twitter:card" content="summary" />
+        <meta property="og:type" content="article" />
+        <meta property="og:locale" content="en_GB" />
+        <link rel="canonical" href="https://blog.jamesmarshall.org/about" />
       </Helmet>
         <h1>Bio</h1>
         <div className="primary-content">

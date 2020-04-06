@@ -25,7 +25,7 @@ export default function Template({
         <meta name="twitter:card" content="summary" />
         <meta property="og:type" content="article" />
         <meta property="og:locale" content="en_GB" />
-         <link rel="canonical" href={url} />
+        <link rel="canonical" href={url} />
 
       </Helmet>
       <div className="blog-post-container">
