@@ -137,7 +137,7 @@ a {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  border-radius: 0px;
+  border-radius: 4px;
   margin-bottom: 36px;
   color: white;
   display: grid;
@@ -173,7 +173,7 @@ a {
 .card {
   display: grid;
   background:white;
-  border-radius: 0px;
+  border-radius: 4px;
   border: 1px solid #eee;
   box-shadow: 0 0 30px #d5d5d5;
   overflow: hidden;
@@ -219,7 +219,7 @@ a {
   background-color: #f7f8fe;
   padding: 32px;
   border: 1px solid #d3d6e7;
-  border-radius: 0px;
+  border-radius: 4px;
   label {
     display: block;
     margin-bottom: 0.5rem;
@@ -229,7 +229,7 @@ a {
   textarea {
     appearance: none;
     border: 1px solid #d3d6e7;
-    border-radius: 0px;
+    border-radius: 4px;
     line-height: 32px;
     padding: 6px 12px;
     width: calc(100% - 24px);
@@ -266,4 +266,8 @@ and (min-width: 768px) {
     grid-template-columns: 1fr 1fr;
     grid-gap: 64px;
   }
+}
+
+.rcs-buttons {
+  margin-bottom: 32px;
 }
