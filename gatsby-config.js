@@ -9,7 +9,7 @@ module.exports = {
   siteMetadata: {
     title: `James Marshall`,
     description: `The personal blog of James Marshall, scrum master, developer, technophile and father.`,
-    siteUrl: `https://blog.jamesmarshall.org/`,
+    siteUrl: `https://www.jamesmarshall.org/`,
     twitterHandle: '@AgileNorthwest',
     home: {
       title: `Welcome back...`,
