@@ -29,7 +29,7 @@ const BlogIndexPage = ({
         <meta property="og:locale" content="en_GB" />
         <link rel="canonical" href="https://www.jamesmarshall.org/blog" />
       </Helmet>
-      <h2>Latest Posts</h2>
+      <h1>Latest Posts</h1>
       <div className="grids">
         {Posts}
       </div>
