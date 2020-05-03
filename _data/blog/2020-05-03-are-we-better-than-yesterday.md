@@ -1,12 +1,12 @@
 ---
 template: BlogPost
-path: are-we-better-than-yesterday
+path: /are-we-better-than-yesterday
 date: 2020-05-03T09:52:29.611Z
 title: Are we better than yesterday?
 thumbnail: /assets/improvement.png
 metaDescription: ''
 ---
-Ask your team; *"Are we better than yesterday?"*
+Ask your team; "Are we better than yesterday?"
 
 Ask it at the end of your daily scrum, in your Sprint Retrospectives and ask it of your stakeholders at the end of your Sprint Reviews.
 
