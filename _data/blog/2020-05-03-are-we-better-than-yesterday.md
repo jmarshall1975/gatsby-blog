@@ -10,7 +10,7 @@ Ask your team; *"Are we better than yesterday?"*
 
 Ask it at the end of your daily scrum, in your Sprint Retrospectives and ask it of your stakeholders at the end of your Sprint Reviews.
 
-It’s a simple question, but one that can really help to focus on the positive progress made by the team, which can at times be necessary, especially when working through issues with morale.
+It's a simple question, but one that can really help to focus on the positive progress made by the team, which can at times be necessary, especially when working through issues with morale.
 
 It can also serve to highlight where there is a lack of real improvement, even when the team is delivering work as requested. If the work delivered during a sprint doesn't allow us to confidently answer "yes", then that work is likely not delivering value, and is simply "busy work" or vanity projects.
 
