@@ -4,10 +4,7 @@ path: are-we-better-than-yesterday
 date: 2020-05-03T09:52:29.611Z
 title: Are we better than yesterday?
 thumbnail: /assets/improvement.png
-metaDescription: >-
-  Are we better than yesterday? Asking this simple question can help highlight
-  progress, improve team morale, and identify when and where you're team is
-  failing.
+metaDescription: ''
 ---
 Ask your team; "*Are we better than yesterday?"*
 
