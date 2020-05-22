@@ -38,7 +38,7 @@ I think this story was initially presented to me as a teaching that God works in
 
 I was most recently reminded of this when I was approached by one of my team who wanted to discuss some concerns. This individual felt that while other members of the team had been progressing and working on interesting new projects, they themselves were stagnating and delivering little value. It wasn’t until I pointed out that they had wilfully avoided all technical spikes and stretch goals that had been in recent sprints that they realised they had fallen foul of a reluctance to leave their comfort zone.
 
-Instead of selecting some of these more challenging items from the backlog (that would have naturally led to progression and development) they had continued to opt for work items that were “known” and “safe”. With this realisation the developer went away, and I’m happy to report that I’ve noticed a change of attitude and the individual seems happier in their work.
+Instead of selecting some of these more challenging items from the backlog (that would have naturally led to progression and development) they had continued to opt for work items that were “known” and “safe”. With this realisation the developer went away, and I’m happy to report that the individual in question now seems happier in their work.
 
 I know from personal experience that it’s all too easy to fall into the trap of choosing the easy path of less challenging work, and when we do so we hold ourselves back. When working in a small internal development team, the opportunities to develop and progress are not always forthcoming, and it’s therefore doubly important to spot such opportunities when they arise.
 
